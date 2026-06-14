@@ -1,0 +1,30 @@
+Yosemite Campground Research Notes
+===================================
+Park Code: yose
+Total Campgrounds: 15 (first 10 returned by API)
+
+Campgrounds with Elevations (from NPS descriptions):
+1. Bridalveil Creek Campground - 7,200 ft
+2. Camp 4 Campground - 4,000 ft
+3. Crane Flat Campground - 6,200 ft
+4. Hodgdon Meadow Campground - 4,900 ft
+5. Lower Pines Campground - 4,000 ft
+6. North Pines Campground - 4,000 ft
+7. Porcupine Flat Campground - 8,100 ft
+8. Tamarack Flat Campground - 6,300 ft
+9. Tuolumne Horse Campsites - 8,600 ft
+10. Tuolumne Meadows Campground - 8,000 ft
+
+Elevation Distribution:
+- Valley (<5,000 ft): 4 campgrounds
+- Mid-elevation (5,000-7,000 ft): 2 campgrounds
+- High elevation (7,000+ ft): 4 campgrounds
+- Average elevation: 6,130 ft
+- Range: 4,000 ft to 8,600 ft
+
+Air Quality (from WeatherAPI):
+US EPA Index: 1 (Good)
+PM2.5: 2.1 ug/m3
+PM10: 2.9 ug/m3
+CO: 110.0 ug/m3
+O3: 94.0 ug/m3
